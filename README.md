@@ -14,7 +14,7 @@ The project is created using spring https://start.spring.io/ with spring data jp
 
 ### Installing
 
-* Wamp or xampp lamp for linux.
+* Wamp or xampp or lamp for linux.
 * Phpmyadmin or MySQLWorkbench as client.
 
 ### Executing program
