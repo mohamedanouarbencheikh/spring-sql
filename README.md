@@ -4,7 +4,7 @@ Spring data jpa
 
 ## Description
 
-This is a complete project identify how to use spring data jpa.
+This is a complete project identify how to use spring boot with spring data jpa.
 
 ## Getting Started
 
